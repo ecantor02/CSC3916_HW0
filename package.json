@@ -1,0 +1,24 @@
+{
+  "name": "gbooks",
+  "version": "1.0.0",
+  "description": "Google Books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecantor02/CSC3916_HW0.git"
+  },
+  "author": "Erik Cantor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecantor02/CSC3916_HW0/issues"
+  },
+  "homepage": "https://github.com/ecantor02/CSC3916_HW0#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "minimist": "^1.2.5",
+    "ora": "^6.0.1"
+  }
+}
